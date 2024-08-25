@@ -1,4 +1,4 @@
-# GovernancaDeDados
+# Governança De Dados
 
 ## Conceitos Fundamentais
 
@@ -57,3 +57,53 @@
 
 - Criação de produtos de dados para extração de valor.
 - Venda de dados para outras empresas.
+
+### Governança é uma responsabilidade mais ligada ao negócio ou tecnologia?
+
+- Governança de dados deve ser um tema central da cultura das organizações
+- Deve estar presente em todos os níveis empresariais:
+    - Estratégico (Chief Data Officer)
+    - Tático (Data Governance Officer)
+    - Operacional (Engenheiros, cientistas, analistas, usuarios)
+- Necessário ter o Data Literacy (Letramento de dados)
+
+### 5 P's da Governança de Dados
+
+#### Princípios
+- Grande objetivos que norteiam as questões de governança
+- Conhecimento dos ativos de dados: Conhecer as bases de dados da organização
+- Acesso mínimo: Menor nível de acesso possível. Exemplo: Bases de RH, só pessoas do RH acessam
+
+#### Processos
+- Conjuntos de etapas adotadas pela organização para implementar os princípios
+- Processo de ingestão de bases: Criação de modelos lógico, relacional, dicionário de dados e regras de qualidade
+
+#### Procedimentos
+- Maneiras específicas de realizar uma ação relacionada a dados
+- Modelagem lógica: Time de modelage
+- Dicionário de dados e Regras de qualidade: Time de negócios
+- Modelo relacional: Engenharia de dados
+- Pode-se utilizar a lib ```pydq``` para validar governança
+  
+#### Padrões
+- Normas e especificações que tentam garantir a consistência nas ações de dados
+- Definidos sempre externamente como COBIT, ITIL, Etc
+  
+#### Papéis
+- Conjunto de responsabilidade atreladas a uma pessoa ou área, esses papéis incluem:
+    - Data Owner:
+          - Profissional de negócio
+          - Responsável por tomar decisões
+          - Precisar ter conhecimento sobre os dados
+          - Responsável em definir quem acessa os dados e sobre sua qualidade
+    - Data Stewards
+          - Conhece os dados em profundidade e serve à organização com esse conhecimento
+          - Business ou Technical Data Stewards
+    - Data governance officer
+          - Desenvolvimento de Políticas e Normas
+          - Garantia da Qualidade dos Dados
+          - Educação e Treinamento
+          - Gerenciamento de Metadados
+    - Usuário de dados
+          - Cliente final de governança
+          - Data literacy (Alfabetização de dados)
