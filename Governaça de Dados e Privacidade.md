@@ -28,7 +28,19 @@
 
 ### Bases legais
 - Motivadores e situações específicas onde a empresa poderá fazer uso dos dados pessoais para diversos tipos de usos
+- Os tipos de base legais estão nesse [link](https://github.com/Godofin/GovernancaDeDados/blob/main/Tipos%20de%20Bases%20Legais%20da%20LGPD.md)
 
 ### Finalidade
 - Para todo dado coletado, ele precisa ter uma finalidade;
 - Exemplo, se somos uma empresa de ecommerce, precisamos dos dados do cliente para emissão de nota fiscal e envio de produtos, e não para outras finalidades;
+
+## Privacy by Design
+
+- Princípios:
+    1. Privacidade Incorporada ao Design: A proteção de dados deve ser integrada à estrutura do sistema desde o início, considerando a privacidade em todas as etapas do desenvolvimento. No exemplo, isso significa definir desde já como os dados dos pacientes serão protegidos, aplicando criptografia e controles de acesso para manter a segurança.
+
+    2. Soma Positiva e Não de Soma Zero: Assegura que investir em privacidade não significa comprometer a eficiência ou funcionalidade. Privacidade e inovação podem coexistir, garantindo que as soluções de proteção de dados beneficiem todas as partes envolvidas, sem prejuízo.
+
+    3. Visibilidade e Transparência: As práticas de privacidade devem ser visíveis e compreensíveis para os usuários, promovendo transparência sobre as medidas de proteção e criando uma relação de confiança. A proteção de dados não deve ser um “segredo”, mas algo que fortalece a confiança entre o usuário e a empresa.
+
+    4. Respeito pela Privacidade do Usuário: O uso dos dados deve respeitar a privacidade do usuário, aplicando o princípio da minimização de dados – coletando apenas o necessário e usando-os para os fins legítimos. Isso garante que o uso dos dados esteja sempre alinhado com as normas de proteção, como a LGPD, promovendo confiança e conformidade.
